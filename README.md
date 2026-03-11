@@ -1,2 +1,2 @@
-# Aravind-s-Data-Science-Projects
-I will be putting my Data Science related Projects online
+# Aravinds-Projects
+I will be putting all relevant projects I completed
