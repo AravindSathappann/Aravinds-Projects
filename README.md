@@ -1,2 +1,2 @@
 # Aravinds-Projects
-I will be putting all relevant projects I completed
+A collection of projects showcasing my work in Data Science and Business Analytics
