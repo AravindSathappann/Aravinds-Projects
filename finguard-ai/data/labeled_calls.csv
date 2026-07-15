@@ -1,0 +1,21 @@
+transcript,label
+"I did not authorize this transaction on my account and my card may have been stolen",Fraud Risk
+"There is a suspicious charge for 950 dollars that I do not recognize",Fraud Risk
+"My debit card was stolen and someone made multiple purchases",Fraud Risk
+"I need to dispute a transaction because I never made this purchase",Fraud Risk
+"I see strange activity on my checking account",Fraud Risk
+"I was promised one interest rate but the loan agreement shows another rate",Compliance Risk
+"The agent did not explain the loan terms clearly before I signed",Compliance Risk
+"I was charged a fee that was never disclosed to me",Compliance Risk
+"The APR and repayment terms are different from what I was told",Compliance Risk
+"This account agreement does not match what the representative explained",Compliance Risk
+"I have called three times and nobody has fixed my issue",Escalation Risk
+"I want to speak with a manager because this problem keeps happening",Escalation Risk
+"I am extremely frustrated and need this resolved today",Escalation Risk
+"No one has helped me and I keep getting transferred",Escalation Risk
+"I have been waiting for days and this issue is still unresolved",Escalation Risk
+"I want to update my mailing address on my account",Normal Support
+"I need help resetting my online banking password",Normal Support
+"Can you help me check my account balance",Normal Support
+"I would like to order a replacement debit card",Normal Support
+"I need to change my phone number on file",Normal Support

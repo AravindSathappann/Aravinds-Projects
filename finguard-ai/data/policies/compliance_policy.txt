@@ -1,0 +1,9 @@
+Policy Name: Financial Product Disclosure and Compliance Policy
+
+This policy applies when a customer reports that loan terms, APR, fees, repayment terms, account agreements, or financial disclosures were unclear, inconsistent, missing, or different from what was originally promised.
+
+If a customer says they were not informed about a fee, interest rate, repayment condition, or account term, the call should be reviewed for possible compliance risk. The agent should document the customer's concern, identify the product involved, and compare the customer's claim with the official agreement or disclosure documents.
+
+Calls involving unclear terms, missing disclosures, or mismatched promises should be escalated to a compliance review queue.
+
+Recommended Action: Route to compliance review, document the disputed terms, and verify the original disclosure materials.

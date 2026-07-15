@@ -1,0 +1,9 @@
+Policy Name: Unauthorized Transaction Dispute Policy
+
+This policy applies when a customer reports an unauthorized transaction, stolen card, suspicious charge, account takeover concern, or unrecognized purchase.
+
+If a customer states that they did not authorize a transaction, the call should be treated as a potential fraud-risk event. The support agent should verify the customer's identity, collect the transaction amount, identify the affected account or card, and open a dispute case.
+
+If the customer mentions a stolen card, the card should be blocked immediately and a replacement card should be offered. The call should be routed to a fraud specialist when the dollar amount is high, when multiple suspicious transactions are reported, or when the customer expresses urgent concern.
+
+Recommended Action: Route to fraud specialist, block compromised card if needed, and open a dispute case.

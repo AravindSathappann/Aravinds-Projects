@@ -1,0 +1,9 @@
+Policy Name: Customer Escalation and Complaint Handling Policy
+
+This policy applies when a customer is frustrated, requests a manager, reports repeated unresolved issues, says they have called multiple times, or states that nobody has helped them.
+
+If the customer expresses strong dissatisfaction or asks for a supervisor, the call should be treated as an escalation-risk event. The agent should acknowledge the issue, avoid transferring the customer unnecessarily, and create a clear resolution path.
+
+Escalation risk is higher when the customer uses urgent language, mentions repeated contact, or says the issue has been unresolved for several days.
+
+Recommended Action: Route to escalation specialist, document prior contact history, and prioritize resolution.

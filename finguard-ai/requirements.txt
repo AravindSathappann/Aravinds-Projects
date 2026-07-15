@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+python-dotenv
+flask
+requestslanggraph
+confluent-kafka
+confluent-kafka
+pyspark

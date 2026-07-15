@@ -1,0 +1,7 @@
+Policy Name: Routine Account Support Policy
+
+This policy applies when a customer requests routine account help such as password resets, account balance questions, address updates, phone number changes, debit card replacements, or general online banking support.
+
+If no fraud, compliance, or escalation signals are present, the call can remain in the standard support queue. The agent should verify the customer, complete the requested account service, and confirm the issue is resolved.
+
+Recommended Action: Keep in normal support queue and complete the requested account service.
